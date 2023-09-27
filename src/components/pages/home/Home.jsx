@@ -9,13 +9,9 @@
 //     )
 // }
 
-// ===========CLASE 4 COMPONENTES===========
+// ======================
 
 // EXPORTACION NOMBRADA
-
-// export const Home = () => {
-//   return <h1>Estoy en el home!</h1>;
-// };
 
 import { useState } from "react";
 

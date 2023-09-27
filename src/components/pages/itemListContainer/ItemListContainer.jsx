@@ -1,8 +1,7 @@
-const ItemListContainer = ({ saludo, edad, x }) => {
+const ItemListContainer = ({ saludo, x }) => {
   return (
     <div>
-      <h4>Hola, {saludo} cómo estás?</h4>
-      <h5>Mi edad es {edad} anios</h5>
+      <h4>Hola, {saludo} bienvenido</h4>
     </div>
   );
 };
